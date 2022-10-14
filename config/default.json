@@ -1,0 +1,9 @@
+{
+  "port": 3030,
+  "db": {
+    "host": "localhost:8001",
+    "user": "admin",
+    "password": "password",
+    "connectionLimit": 5
+  }
+}
